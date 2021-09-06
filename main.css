@@ -1,0 +1,53 @@
+h1{
+    
+  
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+h2{
+    
+   
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+body{
+    margin: 200px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+    text-align: left;
+}
+
+input{
+    width: 30%;
+    padding: 10px;
+    
+    
+    border: 2px solid black;
+    margin-bottom: 4px;
+}
+
+button{
+    background-color: chocolate;
+    color: white;
+    padding: 10px 20px;
+    border: 2px black solid;
+    font-weight: bold;
+}
+
+ul{
+    padding: 0;
+    list-style: none;
+}
+li{
+    margin-bottom: 2.5px;
+
+}
+
+a {
+    color:yellow;
+    
+}
